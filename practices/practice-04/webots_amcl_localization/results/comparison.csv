@@ -1,0 +1,7 @@
+Experiment,Initialization,Min particles,Max particles,Convergence time (s),Status
+1,Global,100,500,6.56,Converged
+2,Global,1000,3000,9.12,Converged
+3,Small initial error,100,500,17.86,Converged
+4,Small initial error,1000,3000,6.56,Converged
+5,Large initial error,100,500,,Not converged
+6,Large initial error,1000,3000,,Not converged
